@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.firstsection-victims {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+    padding: 80px;
+
+
+}
+
+.sylhet-flood {
+    text-align: center;
+    color: white;
+
+}
+
+.donate-button {
+    text-align: center;
+    text-decoration: none;
+    color: rgb(46, 56, 139);
+    background-image: linear-gradient(orange, salmon);
+    padding: 15px 25px;
+    border-radius: 7px;
+    font-weight: 600;
+    margin-top: 30px;
+
+
+}
+
+.sylhet-flood h1 {
+    font-size: 200%;
+}
+
+.sylhet-flood p {
+    margin-bottom: 40px;
+}
